@@ -1,0 +1,15 @@
+{
+  "name": "boulo",
+  "version": "1.0.0",
+  "description": "Boulo est une plateforme numérique mobile/web qui facilite l'insertion professionnelle des jeunes à travers des outils d'orientation, de formation, et de mise en relation avec les entreprise",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parfait kom",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
